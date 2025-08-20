@@ -1,0 +1,6 @@
+[submodule "sys"]
+	path = sys
+	url = git@github.com:jbvalle/sys.git
+[submodule "mcal"]
+	path = mcal
+	url = git@github.com:jbvalle/mcal.git
